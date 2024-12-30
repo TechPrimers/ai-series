@@ -28,3 +28,9 @@ Curated content for learning AI from scratch
 - Evaluation Metrics: Accuracy, precision, recall, F1-score, and ROC-AUC
 - Hyperparameter Tuning
 - Hands-On evaluating sample model
+- HuggingFace
+- AI agents
+- RAG
+
+  # Other adhoc topics
+  - Copilot
