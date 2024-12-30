@@ -1,4 +1,4 @@
-# AI Series
+# AI Series: AI the easy way
 Curated content for learning AI from scratch
 
 # Topics
