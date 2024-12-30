@@ -35,3 +35,4 @@ Curated content for learning AI from scratch
   # Other adhoc topics
   - Copilot
   - AI Ops
+  - Langchain
