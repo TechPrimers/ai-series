@@ -3,6 +3,9 @@ Curated content for learning AI from scratch
 
 # Topics
 - Introduction to AI
+- Introduction to Machine Learning: Key concepts and terminology 
+- Types of Machine Learning: Supervised, unsupervised, and reinforcement learning 
+- Hands-on on all ML types
 - Jupyter Notebooks
 - Kaggle
 - Python Libraries: SKLearn, Pandas, Matplotlib, Seaborn, etc.,
@@ -11,9 +14,6 @@ Curated content for learning AI from scratch
 - K nearest neighbours
 - Decision Trees
 - Random Forest
-- Introduction to Machine Learning: Key concepts and terminology 
-- Types of Machine Learning: Supervised, unsupervised, and reinforcement learning 
-- Hands-on on all ML types
 - Data collection, cleaning, and pre-processing
 - Stemming, Lematization and StopWords
 - Feature Engineering
@@ -27,6 +27,7 @@ Curated content for learning AI from scratch
 - Confusion Matrix
 - Evaluation Metrics: Accuracy, precision, recall, F1-score, and ROC-AUC
 - Hyperparameter Tuning
+- Grid Search, Random Search, etc
 - Hands-On evaluating sample model
 - HuggingFace
 - AI agents
