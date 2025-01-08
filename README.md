@@ -1,7 +1,14 @@
-# AI Series: AI the Easy Way
-Curated content for learning AI from scratch
 
-Welcome to **AI Series: AI the Easy Way**! This series is designed to take you from absolute beginner to an AI enthusiast. Whether you're a tech enthusiast, a student, or just curious about AI, there's something here for everyone. Join me as we explore the fascinating world of artificial intelligence together. 😊
+<h1> AI Series: AI the Easy Way :sparkles: </h1>
+
+<i>Curated content for learning AI from scratch</i>
+
+<br>
+<table align="center" style="border: none;">
+<td><img src="./ai-series.png" width="200px" heigth="200px" /></td>
+</table>
+
+Welcome to **AI Series: AI the Easy Way**! This series is designed to take you from absolute beginner to an AI enthusiast. Whether you're a tech enthusiast, a student, or just curious about AI, there's something here for everyone. Join me as we explore the fascinating world of artificial intelligence together. 😊 
 
 ## Topics
 
